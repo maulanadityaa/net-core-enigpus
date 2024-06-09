@@ -1,0 +1,14 @@
+E:\ENIGMA\.NET\enigpus\enigpus\bin\Debug\net8.0\enigpus.exe
+E:\ENIGMA\.NET\enigpus\enigpus\bin\Debug\net8.0\enigpus.deps.json
+E:\ENIGMA\.NET\enigpus\enigpus\bin\Debug\net8.0\enigpus.runtimeconfig.json
+E:\ENIGMA\.NET\enigpus\enigpus\bin\Debug\net8.0\enigpus.dll
+E:\ENIGMA\.NET\enigpus\enigpus\bin\Debug\net8.0\enigpus.pdb
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.AssemblyInfoInputs.cache
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.AssemblyInfo.cs
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.csproj.CoreCompileInputs.cache
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.dll
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\refint\enigpus.dll
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.pdb
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\enigpus.genruntimeconfig.cache
+E:\ENIGMA\.NET\enigpus\enigpus\obj\Debug\net8.0\ref\enigpus.dll
