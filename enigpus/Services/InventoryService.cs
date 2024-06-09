@@ -6,9 +6,10 @@ public class InventoryService : IInventoryService
 {
     private readonly List<Book> _books = new List<Book>();
 
-    public void addBook(Book book)
+    public Book addBook(Book book)
     {
-        _books.Add(book);
+       _books.Add(book);
+       return book;
     }
 
     public List<Book> getAllBooks()

@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using enigpus.Views;
 
-Console.WriteLine("Hello, World!");
+namespace enigpus;
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+        var inventoryUi = new InventoryUi();
+        inventoryUi.Run();
+    }
+}
